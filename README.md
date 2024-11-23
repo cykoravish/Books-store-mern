@@ -29,7 +29,7 @@ Follow the below steps to run the project:
 + Then run `` npm install `` commend to install node dependencies.
 * create a **.env** file in the backend root directory as the same level where the **package.json** is located and keep the following environment variables there: 
 ```
-DB_URL = "mongodb+srv://helpyourassistant:pqam0Mwv3Vwv8Off@cluster0.qc3bq.mongodb.net/book-store?retryWrites=true&w=majority&appName=Cluster0"
+DB_URL = 
 
 JWT_SECRET_KEY =
 
@@ -51,7 +51,7 @@ Feel free to reach out for any discussions or issues!
 ## Contact
 
 - **Email**: [ravishbisht86@gmail.com](mailto:ravishbisht86@gmail.com)
-- **Instagram**: [@your-instagram-handle](https://www.instagram.com/web________developer/profilecard/?igsh=dGs0cjZ5OHEzYXdk)
+- **Instagram**: [@web________developer](https://www.instagram.com/web________developer/profilecard/?igsh=dGs0cjZ5OHEzYXdk)
 
 ## License
 
